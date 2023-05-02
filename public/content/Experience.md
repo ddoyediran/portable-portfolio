@@ -15,5 +15,16 @@
 - Badges:
   - Badge [blue]
 - List Items:
-  - PLed a team of 3 backend developers and also worked with 3 Frontend developers to re-develop a learning management platform to improve the learning experience of over 150 students yearly.
+  - Led a team of 3 backend developers and also worked with 3 Frontend developers to re-develop a learning management platform to improve the learning experience of over 150 students yearly.
   - Developed a Movies rental REST API using Expressjs, MongoDB database and deployed to Render.
+
+## Google Developer Student Clubs (Sweden)
+- *Team lead* | Jul'21 - Jun'22
+- ![logo512](../assets/gdsclogo.png)
+- Tags: Work
+- Badges:
+  - Badge [blue]
+- List Items:
+  - Selected as one of the 1500 Google Developer Student Club leads globally..
+  - Organised over 25 events where participants acquired technical skills.
+  - Acted as a programming tutor and managed a community of over 70 members with a core team of 4.
