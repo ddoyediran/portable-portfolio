@@ -2,18 +2,18 @@
 - Portable Portfolio
 
 ## Header
-- Hi, my name is Eldora. 
-- I'm a software engineer.
-- Short Description Here.
+- Hey, my name is Damilare Oyediran.
+- I'm a Software developer and Aspiring MLOps.
+- Hardcore problem solver.
 
 ## About
-Write your "About" section here.
+- Software developer.
 
 ## Contact
-Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+I'm currently looking for new opportunities where I can contribute and make impact.
+- LinkedIn: https://linkedin.com/in/damilare-oyediran-b0491b130
+- GitHub: https://github.com/ddoyediran
+- Email: ddoyediran@gmail.com
 
 ## Logo
-- EB
+- DO
