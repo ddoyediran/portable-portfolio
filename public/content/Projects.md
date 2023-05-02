@@ -8,7 +8,7 @@ Developed a ChangeLog App REST API that allows product managers to post updates 
   - Live Site [https://change-log-api-z93y.onrender.com/]
   - GitHub Repo [https://github.com/ddoyediran/change_log_app]
 
-## Movie Rental Application
+## Movies Rental Application
 A Movie Rental Application (REST API) where users can rent movies.
 - ![600x200](../assets/videorental.png)
 - Tags: WebDev
