@@ -21,7 +21,7 @@
 ## Google Developer Student Clubs (Sweden)
 - *Team lead* | Jul'21 - Jun'22
 - ![logo512](../assets/gdsclogo.png)
-- Tags: Work
+- Tags: Teaching
 - Badges:
   - Badge [blue]
 - List Items:
