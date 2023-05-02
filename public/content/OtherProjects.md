@@ -1,22 +1,14 @@
-## Project 1
-Description
-- Tags: Category 1
+## Open source contribution
+Contributed to Airbyte documentation
+- Tags: Opensource
 - Badges:
   - Badge [blue]
 - Buttons:
   - Link [https://example.com]
 
-## Project 2
-Description
-- Tags: Category 2
-- Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]
-
-## Project 3
-Description
-- Tags: Category 3
+## Hacktoberfest Open source contribution
+Contributed to Freecodecamp quiz platform (Hacktoberfest)
+- Tags: Opensource
 - Badges:
   - Badge [blue]
 - Buttons:
