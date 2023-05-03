@@ -3,7 +3,11 @@ Developed a ChangeLog App REST API that allows product managers to post updates 
 - ![Changelog](../assets/changelog.png)
 - Tags: WebDev
 - Badges:
-  - Badge [blue]
+  - Expressjs [blue]
+  - PostgreSQL [blue]
+  - Prisma [blue]
+  - JsonWebToken [blue]
+  - Bcrypt [blue]
 - Buttons:
   - Live Site [https://change-log-api-z93y.onrender.com/]
   - GitHub Repo [https://github.com/ddoyediran/change_log_app]
@@ -13,7 +17,11 @@ A Movie Rental Application (REST API) where users can rent movies.
 - ![600x200](../assets/videorental.png)
 - Tags: WebDev
 - Badges:
-  - Badge [blue]
+  - Expressjs [blue]
+  - Nodejs [blue]
+  - JOI [blue]
+  - MongoDB [blue]
+  - Mongoose [blue]
 - Buttons:
   - Live Site [https://video-rental-app.onrender.com/]
   - GitHub Repo [https://github.com/ddoyediran/video-rental-app]
@@ -23,6 +31,10 @@ Built a dinner planner web app integrating Spoonacular API where users can searc
 - ![600x200](../assets/dinnerapp.png)
 - Tags: WebDev
 - Badges:
-  - Badge [blue]
+  - React [blue]
+  - Vue [blue]
+  - HTML [blue]
+  - CSS [blue]
+  - Firebase [blue]
 - Buttons:
   - Link [#]
